@@ -1,0 +1,37 @@
+**Description**:
+
+The page at [BioInformaticsHub](https://bioinformatics-hub.com) titled "Creating a new file in BioInformaticsHub" exhibits several issues that hinder user experience and functionality:
+
+**1. Missing "Skip to content" link**:
+
+* The page lacks a prominent "Skip to content" link, making it difficult for users with screen readers or keyboard navigation to skip directly to the main content.
+
+**2. Navigation menu issues**:
+
+* The "Navigation Menu" header is not properly styled and appears in an awkward position.
+* The "Jaci-Arch" and "BioInformaticsHub" links within the navigation menu are not clearly separated, causing confusion for users.
+* The search bar within the navigation menu is not visible on smaller screens.
+
+**3. Missing "Cancel changes" button**:
+
+* The "Cancel changes" button is missing from the file editing interface, making it difficult for users to revert their changes without submitting them.
+
+**4. Missing "Indent mode" and "Indent size" options**:
+
+* The "Indent mode" and "Indent size" options within the file editing interface are missing, which limits the user's ability to customize their code formatting.
+
+**5. Missing "Line wrap mode" option**:
+
+* The "Line wrap mode" option within the file editing interface is missing, which makes it difficult to view long lines of code.
+
+**6. Missing "Preview" button**:
+
+* The "Preview" button within the file editing interface is missing, which makes it difficult for users to view the changes they have made before submitting them.
+
+**7. Missing file content placeholder**:
+
+* The placeholder text "Enter file contents here" is displayed instead of a text editor, making it difficult for users to create new files.
+
+**8. Missing keyboard navigation support**:
+
+* The page does not provide proper keyboard navigation support, making it difficult for users with disabilities to interact with the page.
